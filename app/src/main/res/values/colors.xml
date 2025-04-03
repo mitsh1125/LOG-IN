@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFAFF</color>
+    <color name="jet">#303036</color>
+    <color name="tomato">#FC5130</color>
+    <color name="Process_Cyan">#FC5130</color>
+    <color name="purple">#9d4edd</color>
+    <color name="green">#50AA59</color>
+</resources>

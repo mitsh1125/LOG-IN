@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="password">PASSWORD</string>
+    <string name="app_name">Echo Mind</string>
+    <string name="random">HELLO LOVE GOODBYE!</string>
+    <string name="button">CLICK HERE!</string>
+    <string name="Username">USERNAME</string>
+</resources>
